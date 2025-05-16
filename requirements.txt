@@ -1,3 +1,5 @@
 requests
 pandas
-docx
+python-docx
+matplotlib
+seaborn
