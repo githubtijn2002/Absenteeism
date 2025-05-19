@@ -1,3 +1,4 @@
 absent
 *.csv
-*.docx
+*nformation.docx
+__pycache__
